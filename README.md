@@ -1,7 +1,7 @@
 <h1 align="center"> Akshar Shah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-🎓 Hello! Viewer, Akshar Shah currently pursuing MTech from Internation Institute Of Information Technology, Bangalore In The field of Computer Science and Engineering.<br>
-🌱 he is Android Developer, Problem Solver And freelancer<br>
+🎓 Hello! Akshar Shah here currently pursuing MTech from Internation Institute Of Information Technology, Bangalore In The field of Computer Science and Engineering.<br>
+🌱 I'm Problem Solver And freelancer<br>
 
 <h3 >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p >
